@@ -11,9 +11,8 @@ described in the following paper:
 
 Note: this package requires installing Matlab **R2016b** or latter.
 
-##Installation
+##Installation 
 
--------
 1. The software of MISC was implemented in Matlab, and could be installed on
 Windows systems. MISC distributions for Windows can be found at 
 https://github.com/GuyooGu/MISC-Master/tree/master/MISC . We recommend that users can download the latest release. 
@@ -25,14 +24,12 @@ https://github.com/GuyooGu/MISC-Master/tree/master/MISC . We recommend that user
 4. Select the segmentation method and the calssification methods. 
 The segmentation results are presented as 4 subfigures, corresponding to the binders and 3 maceral groups. The classification result for each object detected by image segmentation is shown with different colors for visualization. 
 
-##FeedBack
+##FeedBack 
 
--------
 Any suggestion and problem, please feel free to let us know via Email: liangzou@ece.ubc.ca.
 
-##License
+##License 
 
--------
 Released under MIT license
 
 
