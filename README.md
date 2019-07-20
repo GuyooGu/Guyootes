@@ -2,13 +2,11 @@
 
 ## Introduction
 
--------
 The proposed maceral analysis method, MISC, based on image segmentation and classification 
 makes it possible to identify the maceral composition automatically and intelligently.
 We integrated 2-level K-means segmentation algorithm and various classification algorithms 
 described in the following paper:
 "Intelligent identification of maceral components of coal based on image segmentation and classification" submitted to Applied Sciences.
-
 Note: this package requires installing Matlab **R2016b** or latter.
 
 ##Installation 
