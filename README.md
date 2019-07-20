@@ -7,13 +7,14 @@ makes it possible to identify the maceral composition automatically and intellig
 We integrated 2-level K-means segmentation algorithm and various classification algorithms 
 described in the following paper:
 "Intelligent identification of maceral components of coal based on image segmentation and classification" submitted to Applied Sciences.
-*Note*: this package requires installing Matlab **R2016b** or latter.
+
+**Note**: this package requires installing Matlab **R2016b** or latter.
 
 ## Installation 
 
 1. The software of MISC was implemented in Matlab, and could be installed on
 Windows systems. MISC distributions for Windows can be found at 
-*https://github.com/GuyooGu/MISC-Master/tree/master/MISC* . We recommend that users can download the latest release. 
+https://github.com/GuyooGu/MISC-Master/tree/master/MISC . We recommend that users can download the latest release. 
 
 2. After downloading, please double-click on the file 'MISC.exe' to run the executable file：MISC.exe
 
