@@ -1,5 +1,7 @@
-#MISC
-##Introduction
+# MISC
+
+
+## Introduction
 -------
 The proposed maceral analysis method, MISC, based on image segmentation and classification 
 makes it possible to identify the maceral composition automatically and intelligently.
